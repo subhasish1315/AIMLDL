@@ -1,0 +1,7 @@
+Paper Link
+https://arxiv.org/html/2404.05049v1
+https://www.researchgate.net/publication/370355127_Vehicle_Logo_Recognition_Using_Spatial_Structure_Correlation_and_YOLO-T
+
+
+Dataset
+https://www.kaggle.com/datasets/ronakgohil/license-plate-dataset
